@@ -1,0 +1,26 @@
+uuid: 972a824f-e511-41fd-b236-74c0cdf37d8f
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.recipe_collections
+  module:
+    - views
+  theme:
+    - bartik
+_core:
+  default_config_hash: E0HLSvcSJo84yye98a8UbxEugNebWa1XQAmUxBSXuus
+id: bartik_views_block__recipe_collections_block
+theme: bartik
+region: header
+weight: 0
+provider: null
+plugin: 'views_block:recipe_collections-block'
+settings:
+  id: 'views_block:recipe_collections-block'
+  label: ''
+  provider: views
+  label_display: visible
+  views_label: ''
+  items_per_page: none
+visibility: {  }
