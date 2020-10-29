@@ -1,0 +1,14 @@
+uuid: 4f63b510-99d0-436a-a426-a1a44208ec4c
+name: 'Umami Food Magazine'
+mail: alastair.moore@manifesto.co.uk
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
