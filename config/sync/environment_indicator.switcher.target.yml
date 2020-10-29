@@ -1,0 +1,10 @@
+uuid: 42fdd76f-2af6-4c70-9211-1fc79287e672
+langcode: en
+status: true
+dependencies: {  }
+machine: target
+description: null
+name: Target
+url: 'https://target.ddev.site'
+fg_color: '#ffffff'
+bg_color: '#be0000'

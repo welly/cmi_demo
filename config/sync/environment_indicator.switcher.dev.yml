@@ -1,0 +1,10 @@
+uuid: 75fc6088-796f-4458-9654-24693169979e
+langcode: en
+status: true
+dependencies: {  }
+machine: dev
+description: null
+name: Dev
+url: 'https://dev.ddev.site'
+fg_color: '#ffffff'
+bg_color: '#32c80a'
