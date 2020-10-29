@@ -1,0 +1,25 @@
+uuid: f65d6805-0d04-4e5a-879b-8c138db61af5
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:f64cb0d7-956d-49c1-acfe-1f271fa51793'
+  module:
+    - block_content
+  theme:
+    - umami
+id: developmentblock
+theme: umami
+region: header
+weight: -7
+provider: null
+plugin: 'block_content:f64cb0d7-956d-49c1-acfe-1f271fa51793'
+settings:
+  id: 'block_content:f64cb0d7-956d-49c1-acfe-1f271fa51793'
+  label: 'Development Block'
+  provider: block_content
+  label_display: '0'
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }
